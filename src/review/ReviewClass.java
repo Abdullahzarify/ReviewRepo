@@ -6,5 +6,8 @@ public class ReviewClass {
 		// TODO Auto-generated method stub
 
 	}
+	public void test() {
+		System.out.println("this is method is on review session");
+	}
 
 }
